@@ -5,5 +5,5 @@ Expensive to go there, too.
 Little green men are EVERYWHERE!
 They're only about 2 ft tall, but their heads are MASSIVE.
 Circum = 20 in.
- 
+weight = 20 kg 
  
